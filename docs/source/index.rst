@@ -1,5 +1,7 @@
-Welcome to Lumache's documentation!
+Welcom to GE HealthCare MRI research documention!
 ===================================
+
+This page will hopefully provide information for GE HeahthCare MRI research users, with a focus of neuroscience users.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
